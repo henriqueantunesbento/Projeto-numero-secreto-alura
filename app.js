@@ -39,7 +39,7 @@ function mostrarTextoNaTela(tag, texto) {
 
 function mensagemInicial() {
     mostrarTextoNaTela(`h1`, `Jogo do numero secreto`);
-    mostrarTextoNaTela(`p`, `escolha um número de 1 até 10`);
+    mostrarTextoNaTela(`p`, `escolha um número de 1 até 50`);
 
 };
 
